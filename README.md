@@ -1,4 +1,4 @@
-# camera_ocr_app
+# Flutter_ocr_app
 
 A new Flutter project.
 
